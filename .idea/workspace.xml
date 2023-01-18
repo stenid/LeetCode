@@ -4,12 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b38a861d-0c3c-47a8-a0d6-eff87dabab9f" name="Changes" comment="TwoSum problem">
-      <change afterPath="$PROJECT_DIR$/src/rootEqualsSumOfChildren2236/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/rootEqualsSumOfChildren2236/TreeNode.java" afterDir="false" />
+    <list default="true" id="b38a861d-0c3c-47a8-a0d6-eff87dabab9f" name="Changes" comment="Some renaming">
+      <change afterPath="$PROJECT_DIR$/src/runningSumOf1dArray_1480/SecondSolution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/runningSumOf1dArray_1480/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/twoSum/BetterSolution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/twoSum1/BetterSolution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/twoSum/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/twoSum1/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +45,15 @@
       <recent name="twoSum" />
     </key>
   </component>
+  <component name="RunManager">
+    <configuration name="Run Main in LeetCode" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="LeetCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -62,7 +70,21 @@
       <option name="project" value="LOCAL" />
       <updated>1673893531308</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Root equals sum of children 2236">
+      <created>1674035013499</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1674035013499</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Some renaming">
+      <created>1674035093570</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1674035093570</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -78,6 +100,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="TwoSum problem" />
-    <option name="LAST_COMMIT_MESSAGE" value="TwoSum problem" />
+    <MESSAGE value="Root equals sum of children 2236" />
+    <MESSAGE value="Some renaming" />
+    <option name="LAST_COMMIT_MESSAGE" value="Some renaming" />
   </component>
 </project>

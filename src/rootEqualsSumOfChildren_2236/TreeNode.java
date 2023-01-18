@@ -1,4 +1,4 @@
-package rootEqualsSumOfChildren2236;
+package rootEqualsSumOfChildren_2236;
 
 //  Definition for a binary tree node.
 public class TreeNode {

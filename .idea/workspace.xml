@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b38a861d-0c3c-47a8-a0d6-eff87dabab9f" name="Changes" comment="Running summary of 1d Array 1480">
-      <change afterPath="$PROJECT_DIR$/src/richestCustomerWealth_1672/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/richestCustomerWealth_1672/Solution.java" afterDir="false" />
+    <list default="true" id="b38a861d-0c3c-47a8-a0d6-eff87dabab9f" name="Changes" comment="Richest customer wealth problem 1672">
+      <change afterPath="$PROJECT_DIR$/src/richestCustomerWealth_1672/SecondSolution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/richestCustomerWealth_1672/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/richestCustomerWealth_1672/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,7 +88,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674042647125</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Richest customer wealth problem 1672">
+      <created>1674133891817</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1674133891818</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -108,6 +114,7 @@
     <MESSAGE value="Root equals sum of children 2236" />
     <MESSAGE value="Some renaming" />
     <MESSAGE value="Running summary of 1d Array 1480" />
-    <option name="LAST_COMMIT_MESSAGE" value="Running summary of 1d Array 1480" />
+    <MESSAGE value="Richest customer wealth problem 1672" />
+    <option name="LAST_COMMIT_MESSAGE" value="Richest customer wealth problem 1672" />
   </component>
 </project>

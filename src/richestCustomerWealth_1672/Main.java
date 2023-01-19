@@ -4,7 +4,7 @@ import java.util.Arrays;
 
 public class Main {
     public static void main(String[] args) {
-        var solution = new Solution();
+        var solution = new SecondSolution();
         int[][] accountsCase1 = {{1, 2, 3}, {3, 2, 1}};
         int[][] accountsCase2 = {{1, 5}, {7, 3}, {3, 5}};
         int[][] accountsCase3 = {{2, 8, 7}, {7, 1, 3}, {1, 9, 5}};

@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b38a861d-0c3c-47a8-a0d6-eff87dabab9f" name="Changes" comment="Richest customer wealth problem second&#10;solution 1672">
-      <change afterPath="$PROJECT_DIR$/src/fizzBuzz_412/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fizzBuzz_412/SecondSolution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fizzBuzz_412/Solution.java" afterDir="false" />
+    <list default="true" id="b38a861d-0c3c-47a8-a0d6-eff87dabab9f" name="Changes" comment="FizzBuzz 412">
+      <change afterPath="$PROJECT_DIR$/src/reduceNumberToZero/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reduceNumberToZero/SecondSolution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reduceNumberToZero/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -103,7 +103,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674135620761</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="FizzBuzz 412">
+      <created>1674232270527</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1674232270527</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -124,6 +131,7 @@
     <MESSAGE value="Running summary of 1d Array 1480" />
     <MESSAGE value="Richest customer wealth problem 1672" />
     <MESSAGE value="Richest customer wealth problem second&#10;solution 1672" />
-    <option name="LAST_COMMIT_MESSAGE" value="Richest customer wealth problem second&#10;solution 1672" />
+    <MESSAGE value="FizzBuzz 412" />
+    <option name="LAST_COMMIT_MESSAGE" value="FizzBuzz 412" />
   </component>
 </project>

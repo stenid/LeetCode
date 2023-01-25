@@ -1,4 +1,4 @@
-package reduceNumberToZero;
+package reduceNumberToZero_1342;
 
 public class Solution {
     public int numberOfSteps(int num) {

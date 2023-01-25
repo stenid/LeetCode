@@ -4,11 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b38a861d-0c3c-47a8-a0d6-eff87dabab9f" name="Changes" comment="FizzBuzz 412">
-      <change afterPath="$PROJECT_DIR$/src/reduceNumberToZero/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/reduceNumberToZero/SecondSolution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/reduceNumberToZero/Solution.java" afterDir="false" />
+    <list default="true" id="b38a861d-0c3c-47a8-a0d6-eff87dabab9f" name="Changes" comment="1342. Number of steps to reduce a number to zero.">
+      <change afterPath="$PROJECT_DIR$/src/middleOfTheLInkedList_876/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/middleOfTheLInkedList_876/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/middleOfTheLInkedList_876/SecondSolution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/middleOfTheLInkedList_876/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reduceNumberToZero/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/reduceNumberToZero_1342/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reduceNumberToZero/SecondSolution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/reduceNumberToZero_1342/SecondSolution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reduceNumberToZero/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/reduceNumberToZero_1342/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -110,7 +114,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674232270527</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="1342. Number of steps to reduce a number to zero.">
+      <created>1674557757460</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1674557757460</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -132,6 +143,7 @@
     <MESSAGE value="Richest customer wealth problem 1672" />
     <MESSAGE value="Richest customer wealth problem second&#10;solution 1672" />
     <MESSAGE value="FizzBuzz 412" />
-    <option name="LAST_COMMIT_MESSAGE" value="FizzBuzz 412" />
+    <MESSAGE value="1342. Number of steps to reduce a number to zero." />
+    <option name="LAST_COMMIT_MESSAGE" value="1342. Number of steps to reduce a number to zero." />
   </component>
 </project>

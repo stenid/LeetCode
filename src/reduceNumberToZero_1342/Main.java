@@ -1,4 +1,4 @@
-package reduceNumberToZero;
+package reduceNumberToZero_1342;
 
 public class Main {
     public static void main(String[] args) {

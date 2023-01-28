@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b38a861d-0c3c-47a8-a0d6-eff87dabab9f" name="Changes" comment="383. Ransome note.">
-      <change afterPath="$PROJECT_DIR$/src/palindromeNumber_9/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/palindromeNumber_9/Solution.java" afterDir="false" />
+    <list default="true" id="b38a861d-0c3c-47a8-a0d6-eff87dabab9f" name="Changes" comment="9. Palindrome number.">
+      <change afterPath="$PROJECT_DIR$/src/romanToInteger_13/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/romanToInteger_13/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -130,7 +130,21 @@
       <option name="project" value="LOCAL" />
       <updated>1674724553342</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="9. Palindrome number.">
+      <created>1674823109064</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1674823109064</updated>
+    </task>
+    <task id="LOCAL-00013" summary="9. Palindrome number.">
+      <created>1674823164390</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1674823164390</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -155,6 +169,7 @@
     <MESSAGE value="1342. Number of steps to reduce a number to zero." />
     <MESSAGE value="876. Middle of the Linked List." />
     <MESSAGE value="383. Ransome note." />
-    <option name="LAST_COMMIT_MESSAGE" value="383. Ransome note." />
+    <MESSAGE value="9. Palindrome number." />
+    <option name="LAST_COMMIT_MESSAGE" value="9. Palindrome number." />
   </component>
 </project>

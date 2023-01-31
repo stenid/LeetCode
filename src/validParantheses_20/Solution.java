@@ -4,7 +4,7 @@ import java.util.Stack;
 
 public class Solution {
     public boolean isValid(String s) {                      // valid input: (); (){}[]; ({[]})
-                                                            // invalid input: ((; )); (] ...
+                                                            // invalid input: ((; )); (]; )); ([}}]) ...
         if (s.length() % 2 != 0) return false;
 
         Stack<Character> stack = new Stack<>();

@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b38a861d-0c3c-47a8-a0d6-eff87dabab9f" name="Changes" comment="20. Valid parentheses.">
-      <change afterPath="$PROJECT_DIR$/src/validParantheses_20/SwitchCaseSolution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mergeTwoSortedLIsts_21/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mergeTwoSortedLIsts_21/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/validParantheses_20/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/validParantheses_20/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -172,7 +172,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675165954483</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="20. Valid parentheses.">
+      <created>1675167423766</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1675167423766</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

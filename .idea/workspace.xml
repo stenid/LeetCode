@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b38a861d-0c3c-47a8-a0d6-eff87dabab9f" name="Changes" comment="20. Valid parentheses.">
-      <change afterPath="$PROJECT_DIR$/src/mergeTwoSortedLIsts_21/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mergeTwoSortedLIsts_21/Solution.java" afterDir="false" />
+    <list default="true" id="b38a861d-0c3c-47a8-a0d6-eff87dabab9f" name="Changes" comment="21. Merge two sorted lists.">
+      <change afterPath="$PROJECT_DIR$/src/removeDuplicatesFromSortedArray_26/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/removeDuplicatesFromSortedArray_26/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,6 +43,26 @@
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="twoSum" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="removeDuplicatesFromSortedArray_26.Main" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="removeDuplicatesFromSortedArray_26.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -179,7 +199,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675167423766</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="21. Merge two sorted lists.">
+      <created>1675488096559</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1675488096559</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -208,6 +235,7 @@
     <MESSAGE value="13. Roman to integer." />
     <MESSAGE value="14. Longest common prefix." />
     <MESSAGE value="20. Valid parentheses." />
-    <option name="LAST_COMMIT_MESSAGE" value="20. Valid parentheses." />
+    <MESSAGE value="21. Merge two sorted lists." />
+    <option name="LAST_COMMIT_MESSAGE" value="21. Merge two sorted lists." />
   </component>
 </project>

@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b38a861d-0c3c-47a8-a0d6-eff87dabab9f" name="Changes" comment="21. Merge two sorted lists.">
-      <change afterPath="$PROJECT_DIR$/src/removeDuplicatesFromSortedArray_26/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/removeDuplicatesFromSortedArray_26/Solution.java" afterDir="false" />
+    <list default="true" id="b38a861d-0c3c-47a8-a0d6-eff87dabab9f" name="Changes" comment="26. Remove duplicates from sorted array.">
+      <change afterPath="$PROJECT_DIR$/src/removeElement_27/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/removeElement_27/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,7 +44,7 @@
       <recent name="twoSum" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.removeElement_27.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="removeDuplicatesFromSortedArray_26.Main" />
       <module name="LeetCode" />
@@ -58,8 +58,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="removeElement_27.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="removeElement_27.Main" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="removeElement_27.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.removeElement_27.Main" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -206,7 +220,21 @@
       <option name="project" value="LOCAL" />
       <updated>1675488096559</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="26. Remove duplicates from sorted array.">
+      <created>1675680737312</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1675680737312</updated>
+    </task>
+    <task id="LOCAL-00021" summary="26. Remove duplicates from sorted array.">
+      <created>1675680770722</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1675680770722</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -236,6 +264,7 @@
     <MESSAGE value="14. Longest common prefix." />
     <MESSAGE value="20. Valid parentheses." />
     <MESSAGE value="21. Merge two sorted lists." />
-    <option name="LAST_COMMIT_MESSAGE" value="21. Merge two sorted lists." />
+    <MESSAGE value="26. Remove duplicates from sorted array." />
+    <option name="LAST_COMMIT_MESSAGE" value="26. Remove duplicates from sorted array." />
   </component>
 </project>

@@ -7,7 +7,7 @@ public class Solution {
         // [1, 3, 5, 6] target 7
 
         int left = 0;
-        int right = nums.length;
+        int right = nums.length - 1;
         int index;
 
         if (nums[nums.length - 1] < target)

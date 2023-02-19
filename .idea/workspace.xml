@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b38a861d-0c3c-47a8-a0d6-eff87dabab9f" name="Changes" comment="35. Search insert position.">
-      <change afterPath="$PROJECT_DIR$/src/lengthOfLastWord_58/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lengthOfLastWord_58/SecondSolution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lengthOfLastWord_58/Solution.java" afterDir="false" />
+    <list default="true" id="b38a861d-0c3c-47a8-a0d6-eff87dabab9f" name="Changes" comment="58. Length of last word.">
+      <change afterPath="$PROJECT_DIR$/src/plusOne_66/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/plusOne_66/SecondSolution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/plusOne_66/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -222,7 +222,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675934589096</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="58. Length of last word.">
+      <created>1676699738948</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1676699738948</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -255,6 +262,7 @@
     <MESSAGE value="26. Remove duplicates from sorted array." />
     <MESSAGE value="27. Remove element." />
     <MESSAGE value="35. Search insert position." />
-    <option name="LAST_COMMIT_MESSAGE" value="35. Search insert position." />
+    <MESSAGE value="58. Length of last word." />
+    <option name="LAST_COMMIT_MESSAGE" value="58. Length of last word." />
   </component>
 </project>

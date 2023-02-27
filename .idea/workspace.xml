@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b38a861d-0c3c-47a8-a0d6-eff87dabab9f" name="Changes" comment="66. Plus One.">
-      <change afterPath="$PROJECT_DIR$/src/addBinary_67/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/addBinary_67/Solution.java" afterDir="false" />
+    <list default="true" id="b38a861d-0c3c-47a8-a0d6-eff87dabab9f" name="Changes" comment="67. Add binary.">
+      <change afterPath="$PROJECT_DIR$/src/sqrt_69/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sqrt_69/SecondSolution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sqrt_69/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -235,7 +236,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676791186376</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="67. Add binary.">
+      <created>1677387072651</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1677387072651</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -270,6 +278,7 @@
     <MESSAGE value="35. Search insert position." />
     <MESSAGE value="58. Length of last word." />
     <MESSAGE value="66. Plus One." />
-    <option name="LAST_COMMIT_MESSAGE" value="66. Plus One." />
+    <MESSAGE value="67. Add binary." />
+    <option name="LAST_COMMIT_MESSAGE" value="67. Add binary." />
   </component>
 </project>

@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b38a861d-0c3c-47a8-a0d6-eff87dabab9f" name="Changes" comment="69. Sqrt(x).">
-      <change afterPath="$PROJECT_DIR$/src/climbingStairs_70/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/climbingStairs_70/SecondSolution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/climbingStairs_70/Solution.java" afterDir="false" />
+    <list default="true" id="b38a861d-0c3c-47a8-a0d6-eff87dabab9f" name="Changes" comment="70. Climbing stairs.">
+      <change afterPath="$PROJECT_DIR$/src/removeDuplicatesFromSortedList_83/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/removeDuplicatesFromSortedList_83/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -250,7 +249,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677474920858</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="70. Climbing stairs.">
+      <created>1677565380481</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1677565380481</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -287,6 +293,7 @@
     <MESSAGE value="66. Plus One." />
     <MESSAGE value="67. Add binary." />
     <MESSAGE value="69. Sqrt(x)." />
-    <option name="LAST_COMMIT_MESSAGE" value="69. Sqrt(x)." />
+    <MESSAGE value="70. Climbing stairs." />
+    <option name="LAST_COMMIT_MESSAGE" value="70. Climbing stairs." />
   </component>
 </project>
